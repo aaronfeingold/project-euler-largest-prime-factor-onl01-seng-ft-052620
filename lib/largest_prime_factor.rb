@@ -8,7 +8,5 @@ def largest_prime_factor(input)
       end
       i += 1
     end
-  print output
+  output
 end
-
-largest_prime_factor(13195)
